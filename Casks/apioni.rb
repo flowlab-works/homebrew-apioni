@@ -1,6 +1,6 @@
 cask "apioni" do
-  version "0.1.0"
-  sha256 "7927fc0943fa73674a6d367eb1bd7940733fedd51127f73159ad243c938f4c30"
+  version "0.1.1"
+  sha256 "ac3a7353ea366ce1c1a181d066909b6b022643639673408a2b546422a62368ae"
 
   url "https://github.com/flowlab-works/apioni-ide/releases/download/desktop-v#{version}/Apioni.IDE_#{version}_universal.dmg",
       verified: "github.com/flowlab-works/apioni-ide/"
